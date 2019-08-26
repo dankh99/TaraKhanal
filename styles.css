@@ -2,7 +2,12 @@
 body{
   background: #003250
 }
-h1
+h1,p
 {
   text-align: center;
+}
+p:hover
+{
+  font-size: 30px;
+  background:white;
 }
