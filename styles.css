@@ -1,22 +1,8 @@
 /* body{background: rgb(0,50,80);} */
-<<<<<<< HEAD
 h1
 {
   text-align: center;
 }
 table{
   background: pink;
-=======
-body{
-  background: #003250
-}
-h1,p
-{
-  text-align: center;
-}
-p:hover
-{
-  font-size: 30px;
-  background:white;
->>>>>>> ecbb9c31c530f8be35fcfe1ed2e9ba453a8d56bf
 }
