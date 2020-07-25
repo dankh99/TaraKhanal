@@ -1,5 +1,39 @@
-/* body{background: rgb(0,50,80);} */
-h1
+body
 {
-  text-align: center;
+  padding-top: 70px;
+}
+
+.navbar-default
+{
+  background: #2C3E50;
+}
+
+.navbar-default .navbar-brand
+{
+  color: white;
+}
+
+.navbar-default .navbar-nav li>a
+{
+  color: white;
+}
+
+.jumbotron
+{
+  color: #2C3E50;
+}
+
+.thumbnail
+{
+  /* background: lightgrey; */
+}
+
+.fa-bars
+{
+  color: white;
+  font-size:18px;
+}
+#button
+{
+  height: 20px;
 }
